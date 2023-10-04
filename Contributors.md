@@ -1,6 +1,9 @@
-gitishsandhu0
-vitorquadros
-kaivalmehta
-amritpalsingh52
-robertlent
-RohanSardar 
+| Contributors  | 
+| :---: |
+| gitishsandhu0  |
+| vitorquadros  |
+| robertlent  |
+| kaivalmehta |
+| amritpalsingh52 |
+| Jishnu2608 |
+| RohanSardar |
