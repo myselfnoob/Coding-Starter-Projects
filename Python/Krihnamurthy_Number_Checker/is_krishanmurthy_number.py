@@ -17,4 +17,5 @@ def is_krishnamurthy_number(num:int) -> bool:
     return num == answer
 
 if __name__ == "__main__":
-    print(f"{is_krishnamurthy_number(145)= }")
+    number = int(input("Enter a number: "))
+    print(f"{is_krishnamurthy_number(number)= }")
