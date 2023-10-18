@@ -1,6 +1,6 @@
 # Coding-Starter-Projects
 
-![GitHub last commit ([branch](https://github.com/myselfnoob/Coding-Starter-Projects))](https://img.shields.io/github/last-commit/:user/:repo/:branch)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/myselfnoob/Coding-Starter-Projects/main)
 
 
 A basic repository to share your starter projects with others and help them grow as well!
