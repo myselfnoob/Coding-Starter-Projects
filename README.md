@@ -1,8 +1,9 @@
 # Coding-Starter-Projects
 
+<div align="center">
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/myselfnoob/Coding-Starter-Projects/main)
 ![GitHub contributors](https://img.shields.io/github/contributors/myselfnoob/Coding-Starter-Projects)
-
+<\div>
 
 
 A basic repository to share your starter projects with others and help them grow as well!
