@@ -1,4 +1,8 @@
 # Coding-Starter-Projects
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/:user/:repo/:branch)
+
+
 A basic repository to share your starter projects with others and help them grow as well!
 
 First off, thanks for taking the time to contribute! 
