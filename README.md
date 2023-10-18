@@ -1,5 +1,3 @@
-# Coding-Starter-Projects
-
 <div align="center">
 <!-- Title: -->
   <h1><a href="https://github.com/myselfnoob/Coding-Starter-Projects">Coding-Starter-Projects</a></h1>
