@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Title: -->
-  <h1><a href="https://github.com/myselfnoob/Coding-Starter-Projects">Coding-Starter-Projects</a></h1>
+  <h1>Coding-Starter-Projects</h1>
 <!-- Labels: -->
   <!-- First row: -->
   <a href="https://github.com/myselfnoob/Coding-Starter-Projects/blob/master/CONTRIBUTING.md">
