@@ -1,4 +1,17 @@
-# Coding-Starter-Projects
+<div align="center">
+<!-- Title: -->
+  <h1>Coding-Starter-Projects</h1>
+<!-- Labels: -->
+  <!-- First row: -->
+  <a href="https://github.com/myselfnoob/Coding-Starter-Projects/blob/master/Contributors.md">
+    <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=E0DD14&style=flat-square" height="20" alt="Contributions Welcome">
+  </a>
+  <img src="https://img.shields.io/github/repo-size/myselfnoob/Coding-Starter-Projects.svg?label=Repo%20size&style=flat-square" height="20">
+  
+</div>
+
+
+
 A basic repository to share your starter projects with others and help them grow as well!
 
 First off, thanks for taking the time to contribute! 
